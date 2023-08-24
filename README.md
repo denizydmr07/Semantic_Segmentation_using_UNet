@@ -1,6 +1,6 @@
 ## Semantic_Segmentation_Using_UNet
 
-I wrote an UNet architecture via TensorFlow and trained on it Oxford-IIIT Pet dataset for 20 epochs in order to perform semantic segmentation. The "training.ipynb" notebook contains data loading and preprocessing, UNet architecture, training, and evaluation parts.
+I wrote an [UNet](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/) architecture via TensorFlow and trained on it [Oxford-IIIT Pet](https://www.tensorflow.org/datasets/catalog/oxford_iiit_pet) dataset for 20 epochs in order to perform semantic segmentation. The "training.ipynb" notebook contains data loading and preprocessing, UNet architecture, training, and evaluation parts.
 
 ### Basic Model Architecture
 ![](images/basic_arch.png)
